@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="blog.xsl"?>
+
+<blog>
+	<article>
+		<title>NBA Champion 2021</title>
+		<text>Can Lebron James and his teamate Antony Davies win the second Nba championship in row?Comment here! </text>
+		<date>01.09.2020</date>
+		<theme>NBA Championship</theme>
+		<keywords>Lebron James, Antony Davies, NBA, NBA rings, Lebron king</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>Barack Obama</author>
+				<text>I think GSW can show something special this season!!!</text>
+				<replies>
+					<reply>
+						<author>Michael Jordan</author>
+						<text>Let see how the King can deal with Stephen Curry?</text>
+					</reply>
+					<reply>
+						<author>Dwane Wade</author>
+						<text>Lebron and Antony is a perfect duo like I and James in 2012!</text>
+					</reply>
+					<reply>
+						<author>Damian Lillard</author>
+						<text>No chance for LA to win , because Dame is here!!!</text>
+					</reply>
+				</replies>
+			</comment>
+			<comment>
+				<author>Donald Trump </author>
+				<text>Lebron is a true legend!!!</text>
+				<replies>
+					<reply>
+						<author>Kyrie Irving</author>
+						<text>We will see you in final King James!!!</text>
+					</reply>
+					<reply>
+						<author>Barack Obama</author>
+						<text>Stephen Curry can show who is the boss!!!!</text>
+					</reply>
+				</replies>
+			</comment>
+		</comments>
+	</article>
+
+	<article>
+		<title>Messi or Ronaldo?</title>
+		<text>It is the most difficult question for all of us:Who is the best footballer of all time?</text>
+		<date>02.12.2019</date>
+		<theme>Football</theme>
+		<keywords>Messi, Ronaldo, Barcelona, Real Madrid</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>Ronaldinio</author>
+				<text>Only one man can do everything like a miracle!!!</text>
+				<replies>
+					<reply>
+						<author>Carles Pujol</author>
+						<text>Messi is the greatest of all time!</text>
+					</reply>
+				</replies>
+			</comment>
+			<comment>
+				<author>Marcelo</author>
+				<text>Cristiano is my best friend, i am lucky because i have a chance to play with him!</text>
+				<replies>
+					<reply>
+						<author>Anhel Di-Maria</author>
+						<text>Both of them are the greatest!!!</text>
+					</reply>
+				</replies>
+			</comment>
+			<comment>
+				<author>Pep Guardiola</author>
+				<text>I do not know how to stop Messi!It is impossible!</text>
+				<replies></replies>
+			</comment>
+		</comments>
+	</article>
+
+	<article>
+		<title>Covid-19</title>
+		<text>The hardest time has already came , when the covid-19 will disappear?</text>
+		<date>20.12.2020</date>
+		<theme>Covid-19</theme>
+		<keywords>Covid-19, death, Planet Earth</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>John Williams</author>
+				<text>I believe that the end of this era is near!</text>
+				<replies>
+					<reply>
+						<author>Author of Blog</author>
+						<text>I think we will deal with it!</text>
+					</reply>
+					<reply>
+						<author>Emilia</author>
+						<text>We should be strong!</text>
+					</reply>
+				</replies>
+			</comment>
+			<comment>
+				<author>Alex Vasiliev</author>
+				<text>The medical supply is increasing but death of people is unnormal!</text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>Vladimir Zelenskyi</author>
+				<text>It will never finish in Ukraine due to our people!</text>
+				<replies></replies>
+			</comment>
+		</comments>
+	</article>
+
+	<article>
+		<title>Favourite food</title>
+		<text>Tell us what is your favourite food!</text>
+		<date>11.04.2020</date>
+		<theme>Food</theme>
+		<keywords>Food, tasty food, fast-food</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>Alisia</author>
+				<text>Pizza</text>
+				<replies>
+					<reply>
+						<author>Maxim</author>
+						<text>I hate pizza,sushi are better!</text>
+					</reply>
+				</replies>
+			</comment>
+			<comment>
+			<author>Peter</author>
+				<text>I like Gamburger!</text>
+				<replies>
+					<reply>
+						<author>Author of Blog</author>
+						<text>It is unhealthy!</text>
+					</reply>
+				</replies>
+			</comment>
+		</comments>
+	</article>
+
+	<article>
+		<title>The best Harry Potter film</title>
+		<text>All of us , saw or read about the boy who lives :Harry Potter!Leave your comments down below about your favourite part!</text>
+		<date>12.01.2019</date>
+		<theme>Harry Potter</theme>
+		<keywords>Haary Potter,Hogwarts,magic</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>Alex</author>
+				<text>Harry Potter and the Philosopher's stone</text>
+				<replies>
+					<reply>
+						<author>Bill</author>
+						<text>+</text>
+					</reply>
+					<reply>
+						<author>Ann</author>
+						<text>+</text>
+					</reply>
+					<reply>
+						<author>Fiona</author>
+						<text>+</text>
+					</reply>
+					<reply>
+						<author>Aleftina</author>
+						<text>+</text>
+					</reply>
+				</replies>
+			</comment>
+			<comment>
+				<author>Vladimir Zelenskyi</author>
+				<text>Harry Potter and Deathly Hallows part 2 !</text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>Cristiano Ronaldo</author>
+				<text>Harry Potter and Prisoner of Azkaban!</text>
+				<replies></replies>
+			</comment>
+		</comments>
+	</article>
+
+	<article>
+		<title>Smoking</title>
+		<text>Some people think that smoking is just a bad habbit !But other part of people believe that smoking is just the method of relax!</text>
+		<date>06.12.2020</date>
+		<theme>Smoking</theme>
+		<keywords>Juel, iquos, cigaretts</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>Author of blog </author>
+				<text>Put + if you do not smoking!</text>
+				<replies>
+					<reply>
+						<author>Karoline</author>
+						<text>+</text>
+					</reply>
+					<reply>
+						<author>Masha</author>
+						<text>+</text>
+					</reply>
+					<reply>
+						<author>Alisha</author>
+						<text>+</text>
+					</reply>
+					<reply>
+						<author>John</author>
+						<text>+</text>
+					</reply>
+				</replies>
+			</comment>
+				<comment>
+				<author>Eva</author>
+				<text>I prefer smoking by iques!</text>
+				<replies>
+					<reply>
+						<author>Darina</author>
+						<text>I hate taste of it!I like Juel</text>
+					</reply>
+				</replies>
+			</comment>
+		</comments>
+	</article>
+
+	<article>
+		<title>Cyberpunk 2077</title>
+		<text>Do you like the new computer game Cyberpunk?Comment!</text>
+		<date>23.11.2020</date>
+		<theme>Cyberpunk 2077</theme>
+		<keywords>Cyberpunk 2077, Future, Computer games</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>Bill_34</author>
+				<text>The game is good!</text>
+				<replies>
+					<reply>
+						<author>Daniil</author>
+						<text>Gta 5 is better!</text>
+					</reply>
+					<reply>
+						<author>Rachael</author>
+						<text>+</text>
+					</reply>
+				</replies>
+			</comment>
+			<comment>
+				<author>Vladimir Zelenskyi</author>
+				<text>Great game for powerfull devices!</text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>Michael_3456728</author>
+				<text>Did you see the final?</text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>asdf_4567890</author>
+				<text>So hyped game!</text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>User3456</author>
+				<text>Hate this game!!!</text>
+				<replies></replies>
+			</comment>
+		</comments>
+	</article>
+
+	<article>
+		<title>Feminism</title>
+		<text>Is it a real problem right now?</text>
+		<date>31.12.2019</date>
+		<theme>Feminism</theme>
+		<keywords>Feminism, girls, women</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>Al-03949</author>
+				<text>No </text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>Alisha</author>
+				<text>Yes</text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>Kate</author>
+				<text>Yes! We have to deal with it!</text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>Alla</author>
+				<text>No </text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>Jenia</author>
+				<text>It is just waste of time!S</text>
+				<replies></replies>
+			</comment>
+		</comments>
+	</article>
+
+	<article>
+		<title>UFC</title>
+		<text>Habib Nurmagomedov is the greatest fighter of all time?</text>
+		<date>06.12.2020</date>
+		<theme>UFC</theme>
+		<keywords>Habib, UFC, Conor</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>Jesus_098</author>
+				<text>Habib champion!</text>
+				<replies></replies>
+			</comment>
+			<comment>
+				<author>fkglg_9085</author>
+				<text>I think Muhamed Alli is the greatest</text>
+				<replies>
+					<reply>
+						<author>Bill</author>
+						<text>Yes agree</text>
+					</reply>
+					<reply>
+						<author>Alex</author>
+						<text>+</text>
+					</reply>
+					<reply>
+						<author>Antman</author>
+						<text>Definetly agree</text>
+					</reply>
+				</replies>
+			</comment>
+			<comment>
+				<author>Author of blog</author>
+				<text>Habib is the strongest fighter that i have ever seen in my life!</text>
+				<replies>
+					<reply>
+						<author>Masha</author>
+						<text>+</text>
+					</reply>
+					<reply>
+						<author>Alisha</author>
+						<text>+</text>
+					</reply>
+					<reply>
+						<author>John</author>
+						<text>+</text>
+					</reply>
+				</replies>
+			</comment>
+		</comments>
+	</article>
+
+	<article>
+		<title>Unknown theme</title>
+		<text>Tell me what topics shoud be here on this page!</text>
+		<date>06.12.2020</date>
+		<theme>Unknown theme</theme>
+		<keywords>Ideas,your thoughts,add ideas</keywords>
+		<files></files>
+		<comments>
+			<comment>
+				<author>Executioner</author>
+				<text>I wanna Clash Royale!</text>
+				<replies>
+					<reply>
+						<author>Dima</author>
+						<text>Brawl Stars is better!</text>
+					</reply>
+					<reply>
+						<author>Illya</author>
+						<text>+</text>
+					</reply>
+
+                     <reply>
+						<author>Den Bond</author>
+						<text>Yeah i hear about</text>
+					</reply>
+
+				</replies>
+			</comment>
+		</comments>
+	</article>
+
+</blog>

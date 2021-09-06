@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="blog">
+	<xs:complexType>
+		<xs:sequence>
+
+			<xs:element name="article">
+				<xs:complexType>
+					<xs:sequence>
+						
+						<xs:element name="title" type="xs:string"/>
+						<xs:element name="text" type="xs:string"/>
+						<xs:element name="date" type="xs:date"/>
+						<xs:element name="theme" type="xs:string"/>
+						<xs:element name="keywords" type="xs:string"/>
+						<xs:element name="files" type="xs:string"/>
+
+						<xs:element name="comments">
+							<xs:complexType>
+								<xs:sequence>
+									
+									<xs:element name="comment">
+										<xs:complexType>
+											<xs:sequence>
+												
+												<xs:element name="author" type="xs:string"/>
+												<xs:element name="text" type="xs:string"/>
+
+												<xs:element name="replies">
+													<xs:complexType>
+														<xs:sequence>
+															
+															<xs:element name="reply">
+																<xs:complexType>
+																	<xs:sequence>
+																		<xs:element name="author" type="xs:string"/>
+																		<xs:element name="text" type="xs:string"/>
+
+																	</xs:sequence>
+																</xs:complexType>
+															</xs:element>
+
+														</xs:sequence>
+													</xs:complexType>
+												</xs:element>
+
+											</xs:sequence>
+										</xs:complexType>
+									</xs:element>
+
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+
+
+					</xs:sequence>
+				</xs:complexType>
+			</xs:element>
+		
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+
+</xs:schema>

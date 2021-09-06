@@ -1,0 +1,116 @@
+.inf_h h1 {
+    background-color:#000;
+    font-size: 50px;
+    margin-top: 0px;
+    display: block;
+    padding-top: 30px;
+    padding-left:400px;
+    padding-right:200px;
+    padding-bottom:30px;
+    color: #fff;
+    
+}
+.inf_h h1:first-letter {
+    color:#FFD700;
+    font-size:60px;
+}
+.add_h1{
+    text-align: center;
+    background-color:#000;
+    color:#fff;
+    height:100px;
+    padding-top: 40px;
+    padding-left:30x;
+    font-size:30px;
+}
+.vol{
+    height: 100px;
+    background-color: #000;
+    font-size:30px;
+    color:#fff;
+    text-align: center;
+    padding-top:30px;
+}
+.h1_prog {
+    background:#000;
+    height:120px;
+    font-size:30px;
+    color:#fff;
+    text-align: center;
+    padding-top:60px;
+    font-weight: 400;
+}
+.b_h1 h1 {
+   
+    height:120px;
+    font-size:50px;
+    color:#000;
+    text-align: center;
+    padding-top:60px;
+    font-weight: 400;
+   
+    
+}
+.blog_h1 h1 {
+  font-size:30px;
+    font-weight: bold;
+    color:#000;
+    padding-top:5px;
+    padding-bottom:10px;
+}
+.form_h1 h1{
+font-size:30px;
+    font-weight: bold;
+    color:#000;
+    padding-top: 5px;
+}
+.message_h1{
+    font-size:30px;
+    font-weight: bold;
+    color:#000;
+    padding-top: 5px;
+}
+.h1_fav{
+    background-color:#000;
+    height: 100px;
+    color:#fff;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 30px;
+    font-weight:bold;
+}
+.h1_favo{
+    background:#808080;
+    height:100px;
+     font-size: 20px;
+    font-weight:bold;
+    text-align: center;
+    padding-top: 20px;
+}
+.h1_comp{
+    background-color: #000;
+    color:#fff;
+  padding-top:20px;
+    text-align: center;
+      font-size: 20px;
+    font-weight:bold;
+    height:100px;   
+}
+.f_h1{
+     background-color: #000;
+    color:#fff;
+  padding-top:60px;
+    text-align: center;
+      font-size: 30px;
+   padding-top: 10px;
+    height:100px;
+}
+.h1_prof{
+       background-color: #000;
+    color:#fff;
+  padding-top:60px;
+    text-align: center;
+      font-size: 30px;
+   padding-top: 10px;
+    height:100px; 
+}

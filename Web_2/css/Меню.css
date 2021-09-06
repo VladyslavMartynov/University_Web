@@ -1,0 +1,49 @@
+body{
+    font-family: 'Vampiro One', cursive;
+}
+.menu_back{
+    background-color:#fff ;
+    height:50px;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+
+.menu_list{
+    display:flex;
+    
+    padding-top: 10px;
+    padding-left: 5px;
+    list-style: none;
+    padding-top: 15px;
+    
+    
+}
+
+
+
+.menu__list-link{
+    font-size: 20px;
+    color:#DAA520;
+    text-decoration: none;
+    max-width: 300px;
+    display:block;
+    padding-right:20px;
+    padding-bottom:0px;
+    padding-left:12px;
+    cursor:wait;
+}
+.menu__list-link:hover{
+    color:#fff;
+    background-color: #000;
+}
+.menu__list:nth-child(4){
+    cursor:help;
+}
+.select{
+      color:#FFD700;
+    width: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 12px;
+}

@@ -1,0 +1,37 @@
+
+.text_vol{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight:bold;
+    color:#000;
+    max-width: 50%; 
+}
+.mvp{
+    font-weight: bold;
+    font-size:20px;
+    padding-top: 40px;
+     padding-bottom: 40px;
+    padding-left: 60px;
+    text-transform: uppercase;
+    font-weight:bold;
+    color:#FFD700; 
+    background: #000;
+}
+.text_content{
+    font-size:20px;
+    font-weight: bold;
+    max-width: 50%;
+    font-style: italic;
+}
+.text_1{
+    font-weight: bold;
+    font-style: normal;
+    padding-left: 3px;
+}
+.aitext{
+    font-size: 20px;
+    color:#fff;
+    text-align: left;
+    padding-top: 200px;
+    font-weight: bold;
+}
